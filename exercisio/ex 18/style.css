@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+
+    /*medidas absolutas: cm, mm, in, px, pt, pc
+    
+    
+    medidas relativas: em, ex, rem, vw, vh, %;
+
+    font-size recomendadas: px e em
+    */
+
+    font-weight: bolder;
+
+    /*
+    pesos das fonttes:
+    ligher
+     normal
+      bold 
+    bolder
+
+    também pode se usar o peso numerico que é de 100 a 900
+    */
+
+}

@@ -1,0 +1,14 @@
+formatação de textos
+
+id="":se coloca dentro da tag para criar identificão
+ex: <h1 id="ti.principal">Criando sites com HTML</h1>
+Significa que o h1 é Principal
+
+Tudo em html é id em css é #
+
+classe="": mesma função Que o id mas é usado para quando queremos usar a mesma identificaçã em varias tag
+ex: <h2 class="intermediario">HTMl intermediario </h2>
+ <h2 class="intermediario">CSS intermediario </h2> 
+
+pseudos classes: para colocacar efeitos nas tags representado por":" 
+
